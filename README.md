@@ -59,6 +59,6 @@ This project is to discover weather patterns in Rangoon, Burma. This project is 
 **Model Performance:**
 - Rolling Average model on test performed 0.16 worse when compared to the validate data set. Although, it was still able to perform 2.12 better than Previous Cycle and 0.95 better than Holts Seasonal. 
 
-
+*Future weather may vary depending on prediction
 
 
